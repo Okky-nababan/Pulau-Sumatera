@@ -2,7 +2,3 @@ Nama Kota di Pulau Sumatera :
 
 - ACEH
 - MEDAN
-- Pekanbaru
-- Jambi
-- ACEH
-- MEDAN 10KM
