@@ -3,3 +3,4 @@ Nama Kota di Pulau Sumatera :
 - ACEH
 - MEDAN
 - Pekanbaru
+- Jambi
